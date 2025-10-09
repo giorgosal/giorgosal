@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm George
 
-<!--
-**giorgosal/giorgosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Greek Army Officer | Specialized in communications, with over 8 years of operational experience in leadership, command and project management.
 
-Here are some ideas to get you started:
+- Working to be a **Junior ML Engineer**  
+- Finishing my **Master’s in AI & Deep Learning**  
+- Currently working on research projects in AI (Computational Psychiatry)
+- Always looking to **grow my skills** — lately exploring AI agents 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 What I'm working on
+
+- 🧠 *AI applications for early psychosis risk detection* (2025–ongoing)  
+  > Designing and implementing the AI pipeline — from preprocessing and feature engineering to model optimization.
+
+- 🧬 *Longitudinal twin study on neurocognitive and genetic markers* (2025–ongoing)  
+  > Applying data-driven and ML methods to analyze twin datasets (MZ/DZ) for psychiatric research.
+
+---
+
+## 💻 Language
+`Python` 🐍  
+
+---
+
+## 🧠 Libraries & Tools
+`TensorFlow` · `Scikit-learn` · `NumPy` · `Pandas` · a bit of `PyTorch`  
+
+---
+
+## 📫 Feel free to connect !!
+[LinkedIn](https://www.linkedin.com/in/giorgos-alexiou) · [Kaggle](https://www.kaggle.com/giwrgosalexiou)
