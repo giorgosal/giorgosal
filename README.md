@@ -12,7 +12,7 @@
 ## 🧪 What I'm working on
 
 - 🧠 *AI applications for early psychosis risk detection* (2025–ongoing)  
-  > Designing and implementing the AI pipeline — from preprocessing and feature engineering to model optimization.
+  > Designing and implementing the AI pipeline, preprocessing, feature engineering, model optimization.
 
 - 🧬 *Longitudinal twin study on neurocognitive and genetic markers* (2025–ongoing)  
   > Applying data-driven and ML methods to analyze twin datasets (MZ/DZ) for psychiatric research.
