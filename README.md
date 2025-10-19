@@ -1,9 +1,11 @@
 # 👋 Hello, I'm George
 
-  Greek Army Officer | Specialized in communications, with over 8 years of operational experience in leadership, command and project management.
+  Greek Army Officer - Signal Corps | Specialized in communications, with over 8 years of operational experience in leadership, command and project management.
 
+- Backround in Electrical and Electronics Engineering
 - Working to be a **Junior ML Engineer**  
-- Finishing my **Master’s in AI & Deep Learning**  
+- Finishing my **Master’s in AI & Deep Learning**
+- Member of the AI Scientific Group at IEEE UniWA
 - Currently working on research projects in AI (Computational Psychiatry)
 - Always looking to **grow my skills** — lately exploring AI agents 🤖  
 
@@ -25,7 +27,7 @@
 ---
 
 ## 🧠 Libraries & Tools
-`TensorFlow` · `Scikit-learn` · `NumPy` · `Pandas` · a bit of `PyTorch`  
+`TensorFlow` · `Scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · a bit of `PyTorch`  
 
 ---
 
