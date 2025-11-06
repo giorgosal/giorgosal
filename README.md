@@ -2,7 +2,7 @@
 
   Greek Army Officer - Signal Corps | Specialized in communications, with over 8 years of operational experience in leadership, command and project management.
 
-- Backround in Electrical and Electronics Engineering
+- Backround in Telecommunications and Network Engineering
 - Working to be a **Junior ML Engineer**  
 - Finishing my **Master’s in AI & Deep Learning**
 - Member of the AI Scientific Group at IEEE UniWA
